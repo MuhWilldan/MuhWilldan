@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Muhammad Wildan</a>!</h1>
+<h1 align="center">Welcome to my GitHub profile</h1>
+<br>
+<p align="center">Nice to meet you in my account</p>
+</br>
+<p align="center">
+  <strong><a href="https://twitter.com/MuhWilldan">Twitter</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/muhammad-wildan-64b39b212/">LinkedIn</a></strong>
+</p>
 
 <!--
 **MuhWilldan/MuhWilldan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
